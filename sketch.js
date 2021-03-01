@@ -18,7 +18,7 @@ let video;
 let label = "waiting...";
 // The classifier
 let classifier;
-let modelURL = 'https://teachablemachine.withgoogle.com/models/6dXlbYcQF/';
+let modelURL = 'https://teachablemachine.withgoogle.com/models/kj-HEG0Fw/';
 
 //color 1
 var r;
