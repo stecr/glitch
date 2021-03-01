@@ -1,0 +1,27 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  background-color: #d7d4ff;
+}
+
+h1 {
+  color: #8061f2;
+  text-align: center;
+  text-shadow: 2px 2px 5px white;
+}
+
+h3 {
+  color: #a099ff;
+  text-align: center;
+}
+
+p {
+  font-family: georgia;
+  text-align: center;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
